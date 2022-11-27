@@ -186,5 +186,5 @@ npm run test:coverage
 - [Sinon.js](https://sinonjs.org/);
 
 ---
-⌨️ desenvolvido por [João Pedro Oliveira](https://www.linkedin.com/in/jpoliveira7/) 😄
+⌨️ desenvolvido por [Breno Araújo](https://www.linkedin.com/in/brenusaraujo/) 🇧🇷
 
